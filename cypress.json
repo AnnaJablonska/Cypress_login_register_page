@@ -4,7 +4,6 @@
     "chromeWebSecurity": false,
     "env": {
       "homePageUrl": "https://cybr20200827202321.azurewebsites.net",
-      "registerPageUrl": "https://cybr20200827202321.azurewebsites.net/Home/Register"
     }
   }
   
